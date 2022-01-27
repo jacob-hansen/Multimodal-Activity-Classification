@@ -2,7 +2,7 @@ import requests
 from csv import writer
 from bs4 import BeautifulSoup
 # from MostPopulatedCitiesInEachStateRetriever import getMostPopulatedCities
-
+test = true
 # 1. Separate list of abbreviations from cities
 def YelpDatasetGetter():
     citiesList = [["MA", "Boston"]]#, ["MA", "Cambridge"]]# getMostPopulatedCities()
