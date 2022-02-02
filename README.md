@@ -19,5 +19,5 @@ Snapshot of Website Information Collected from Google </br>
 #### 2. Text Processing Tokenized Text </br>
 Specifically, I removed all stop words, numbers, punctuation, and non-english words (not taking into account mis-spelling). I then tokenized by words and stored them in an array. </br>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/85134229/152095648-7fff8260-a334-45e9-a216-df888a4443c9.png" | width=1000/> </br>
+  <img src="https://user-images.githubusercontent.com/85134229/152095648-7fff8260-a334-45e9-a216-df888a4443c9.png" | width=700/> </br>
 </p>
